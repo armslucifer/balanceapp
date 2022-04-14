@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="20px" height="20px" viewBox="0 0 20 20" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 59.1 (86144) - https://sketch.com -->
+    <title>icon-fb</title>
+    <desc>Created with Sketch.</desc>
+    <g id="Landing" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="02-Balance_center" transform="translate(-1236.000000, -7874.000000)" fill="#30C5CA">
+            <g id="Footer" transform="translate(0.000000, 7859.000000)">
+                <g id="Social-Media" transform="translate(1236.000000, 15.000000)">
+                    <path d="M11,20 L1,20 C0.494030274,20 0,19.5056631 0,19 L0,1 C0,0.494104044 0.494107878,0 1,0 L19,0 C19.5058145,0 20,0.494104044 20,1 L20,19 C20,19.5057407 19.5057369,20 19,20 L14,20 L14,12 L16,12 L17,9 L14,9 L14,7 C13.7997105,6.43553638 14.0423798,5.84000404 15,6 L17,6 L17,3 C16.6174525,3.10283681 15.6686598,3.02065428 15,3 C12.2603476,3.02065428 10.682648,4.4273026 11,7 L11,9 L8,9 L8,12 L11,12 L11,20 L11,20 Z" id="icon-fb"></path>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
